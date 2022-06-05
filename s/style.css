@@ -5,6 +5,7 @@ body{
     margin: auto;
     overflow-y: hidden;
     overflow-x: hidden;
+    overflow: hidden;
 }
 #particles-js {
     position: absolute;
